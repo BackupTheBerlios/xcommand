@@ -1,0 +1,4 @@
+chkver 1
+cls
+ver
+pause Welcome! press a key...
