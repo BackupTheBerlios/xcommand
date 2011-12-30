@@ -30,8 +30,6 @@ namespace X_Command
     }
     public static class Program
     {
-
-
         static void Main(string[] args)
         {
             // start of execution
@@ -39,6 +37,9 @@ namespace X_Command
             string arglr;
             string[] argar;
             string[] arglrar;
+
+            //set editable values
+            values.prompt = values.defualtprompt;
 
             try
             {
@@ -69,8 +70,6 @@ namespace X_Command
                 return;
             }
             else { if (File.Exists(arg)) { xclrun(arg); return; } }
-            //set editable values
-            values.prompt = values.defualtprompt;
             // Sets title & Shows welcome text
             Console.WriteLine("Welcome To " + values.nameversion + "\nProgramed By " + values.progcomp + "\nTesting By " + values.testcomp +"\n");
             Console.Title = "X/Command " + values.version;
