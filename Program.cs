@@ -12,8 +12,8 @@ namespace X_Command
     public static class values
     {
         // sets up read only values
-        public const string version = "0.9 Testing";
-        public const string numver = "09";
+        public const string version = "0.9.0.1 Testing";
+        public const string numver = "0901";
         public const string name = "X/Command";
         public const string nameversion = name + " " + version;
         public const string company = "INTERTECK";

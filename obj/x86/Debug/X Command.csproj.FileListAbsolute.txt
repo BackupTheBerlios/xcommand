@@ -4,3 +4,6 @@ C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\X Command\X Comman
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\X Command\X Command\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\X Command\X Command\obj\x86\Debug\X Command.exe
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\X Command\X Command\obj\x86\Debug\X Command.pdb
+N:\XCommand GIT\bin\Debug\X Command.exe.config
+N:\XCommand GIT\obj\x86\Debug\X Command.exe
+N:\XCommand GIT\obj\x86\Debug\X Command.pdb
